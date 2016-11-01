@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>se.qxx.jukebox</groupId>
+  <artifactId>jukebox-domain</artifactId>
+  <versioning>
+<<<<<<< HEAD:se/qxx/jukebox/jukebox-domain/maven-metadata-local.xml
+    <release>0.1.7</release>
+    <versions>
+      <version>0.1.5</version>
+      <version>0.1.7</version>
+    </versions>
+    <lastUpdated>20161101222032</lastUpdated>
+=======
+    <release>0.1.6</release>
+    <versions>
+      <version>0.1.5</version>
+      <version>0.1.6</version>
+    </versions>
+    <lastUpdated>20161028091300</lastUpdated>
+>>>>>>> 968e1f5c76e366132e70a7faca00948c8ede2238:se/qxx/jukebox/jukebox-domain/maven-metadata.xml
+  </versioning>
+</metadata>
