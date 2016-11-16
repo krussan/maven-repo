@@ -8,7 +8,7 @@ echo $JARFILE
 
 GROUPID=`sed -e "s/xmlns/ignore/" $POMFILE  | xmllint --xpath '/project/groupId/text()' -`
 ARTIFACTID=`sed -e "s/xmlns/ignore/" $POMFILE  | xmllint --xpath '/project/artifactId/text()' -`
-VERSION=`echo $JARFILE | sed 's/.jar//' | tail -c 6`
+VERSION=`echo $JARFILE | sed 's/.jar//' | sed 's/[[:alpha:]|(|[:space:]|-]//g'`
 PACKAGING=`sed -e "s/xmlns/ignore/" $POMFILE  | xmllint --xpath '/project/packaging/text()' -`
 
 echo $GROUPID
