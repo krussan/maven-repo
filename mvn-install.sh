@@ -26,3 +26,5 @@ MVNPATH=$MVNPATH/$ARTIFACTID
 echo $MVNPATH
 
 mv $REPOSITORY/$MVNPATH/maven-metadata-local.xml $REPOSITORY/$MVNPATH/maven-metadata.xml
+
+echo "Done!"
