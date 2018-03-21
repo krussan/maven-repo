@@ -3,10 +3,10 @@
   <groupId>se.qxx.jukebox</groupId>
   <artifactId>jukebox-comm</artifactId>
   <versioning>
-    <release>1.0.24</release>
+    <release>1.0.25</release>
     <versions>
-      <version>1.0.24</version>
+      <version>1.0.25</version>
     </versions>
-    <lastUpdated>20180205180511</lastUpdated>
+    <lastUpdated>20180321211800</lastUpdated>
   </versioning>
 </metadata>
