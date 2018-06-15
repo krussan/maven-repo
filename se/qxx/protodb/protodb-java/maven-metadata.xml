@@ -3,10 +3,10 @@
   <groupId>se.qxx.protodb</groupId>
   <artifactId>protodb-java</artifactId>
   <versioning>
-    <release>1.6.8</release>
+    <release>1.7.0</release>
     <versions>
-      <version>1.6.8</version>
+      <version>1.7.0</version>
     </versions>
-    <lastUpdated>20180329215732</lastUpdated>
+    <lastUpdated>20180615192608</lastUpdated>
   </versioning>
 </metadata>
